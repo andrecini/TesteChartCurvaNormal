@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\bin\Debug\TesteChartCurvaNormal.exe.config
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\bin\Debug\TesteChartCurvaNormal.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\bin\Debug\TesteChartCurvaNormal.pdb
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.Form1.resources
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.Properties.Resources.resources
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\TesteChartCurvaNormal\obj\Debug\TesteChartCurvaNormal.pdb
